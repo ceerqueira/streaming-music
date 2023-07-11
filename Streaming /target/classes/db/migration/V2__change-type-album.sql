@@ -1,1 +1,0 @@
-ALTER TABLE musicas MODIFY album VARCHAR(100)
