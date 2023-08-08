@@ -17,7 +17,7 @@ import br.com.streming.Streaming.domain.Musica;
 import br.com.streming.Streaming.service.MusicaService;
 
 
-
+//Teste 
 @RestController
 @RequestMapping("musica") //Vai mapear essa URL para chamar esse controller
 public class MusicaController {
